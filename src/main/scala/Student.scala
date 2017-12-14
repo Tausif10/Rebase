@@ -1,4 +1,4 @@
 case class Student(name:String) {
 
-  def studDetail = s"My Name is $name"
+  def studDetail = s"Hi friends. My Name is $name"
 }
